@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 const methods = [
   {
     name: "Screen Printing",
-    desc: "Best for bulk orders with vibrant, long-lasting colors on t-shirts, hoodies, and more.",
+    desc: "Best for bulk orders with vibrant, long-lasting colors on t-shirts, hoodies, Linens, and more.",
     img: "/screen-printing.png",
     badge: "Best for Bulk",
   },
